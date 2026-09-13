@@ -478,6 +478,24 @@ Push:
 
 git push origin feature/your-feature
 
+Demo Video:
+https://www.loom.com/share/a288c1abe5b9485abea69ed960b316b4
+
+
+<img width="1912" height="801" alt="image" src="https://github.com/user-attachments/assets/aaa25b61-cb3c-42c8-a151-88acbd1e740a" />
+
+<img width="1917" height="800" alt="image" src="https://github.com/user-attachments/assets/11cdabff-33a0-44ec-91ec-8a3ebe58fa7d" />
+
+<img width="1907" height="797" alt="image" src="https://github.com/user-attachments/assets/68061738-63f6-427d-9d92-02d404e11f2e" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f079e96-4e06-4f13-9f24-152b42a3995d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/453b0b48-d4e1-4e88-88a3-194d84849aa3" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5dd56ba5-073d-446d-8906-455f347564be" />
+
+
+
 📜 License
 
 Add your preferred open-source license here.
