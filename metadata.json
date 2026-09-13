@@ -1,0 +1,6 @@
+{
+  "name": "MINDMESH",
+  "description": "Many Agents. One Intelligence. Autonomous multi-agent operations assistant executing and verifying real actions across Slack, Google Calendar, and Notion using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

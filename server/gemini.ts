@@ -1,0 +1,26 @@
+/**
+ * Server-side Gemini AI Client
+ * Powered by @google/genai SDK with lazy initialization.
+ */
+
+import { GoogleGenAI } from '@google/genai';
+
+let geminiClient: GoogleGenAI | null = null;
+
+export function getGeminiClient(): GoogleGenAI {
+  if (!geminiClient) {
+    const apiKey = process.env.GEMINI_API_KEY;
+    if (!apiKey) {
+      throw new Error('GEMINI_API_KEY environment variable is missing.');
+    }
+    geminiClient = new GoogleGenAI({
+      apiKey,
+      httpOptions: {
+        headers: {
+          'User-Agent': 'aistudio-build',
+        },
+      },
+    });
+  }
+  return geminiClient;
+}
