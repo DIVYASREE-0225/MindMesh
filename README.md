@@ -429,50 +429,6 @@ Verification
    ↓
 Final report
 
-🏆 Hackathon Demo
-
-The 2-minute story
-
-0:00 — The problem
-
-Work is fragmented across multiple applications.
-
-0:20 — The command
-
-“Organize our hackathon kickoff for next Friday.”
-
-0:35 — The agents plan
-
-Show the Orchestrator breaking the goal into tasks.
-
-0:50 — Real execution
-
-Show:
-
-📋 Notion → tasks created
-📅 Calendar → event scheduled
-💬 Slack → team notified
-
-1:20 — Verification
-
-Show each action being independently verified.
-
-1:40 — Result
-
-Display a clean execution report:
-
-WORKFLOW COMPLETE
-
-✓ Tasks created
-✓ Meeting scheduled
-✓ Team notified
-✓ Results verified
-
-1:55 — Closing
-
-MindMesh doesn't just tell you what to do.
-It gets the work done.
-
 🌟 What Makes MindMesh Different?
 
 Most AI assistants stop at:
@@ -499,31 +455,6 @@ The goal is not another chat interface.
 
 The goal is an AI operations layer that can actually move work forward.
 
-🗺️ Roadmap
-
-Multi-agent architecture
-
-Slack integration
-
-Google Calendar integration
-
-Notion integration
-
-Workflow orchestration
-
-Verification layer
-
-Retry & error handling
-
-Persistent workflow memory
-
-More integration adapters
-
-Advanced evaluation suite
-
-Human approval checkpoints for sensitive actions
-
-Production-grade observability
 
 🤝 Contributing
 
